@@ -14,8 +14,7 @@ This application allows users to create 3D paintings using the lines drawn by th
 
 ## Installation
 
-1. Download the app from the App Store or Google Play Store.
-2. Follow the on-screen instructions to install the app on your device.
+Download the app from the GitHub and open in your device or test on Web by link:
 
 ## Usage
 

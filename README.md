@@ -14,7 +14,7 @@ This application allows users to create 3D paintings using the lines drawn by th
 
 ## Installation
 
-Download the app from the GitHub and open in your device or test on Web by link:
+Download the app from the GitHub and open in your device or test on Web by link: https://mshafiev.github.io/LineDrawerMixAr
 
 ## Usage
 
